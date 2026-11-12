@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gobloxians.github.io/sitemap.xml
