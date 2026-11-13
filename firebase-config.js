@@ -10,4 +10,4 @@ window.GOBLOX_FIREBASE = {
   appId: "1:841682450841:web:0a304eed39b26917667b08"
 };
 // UID администратора (для кнопок удаления сообщений в чате). Сами права задаются в database.rules.json.
-window.GOBLOX_ADMINS = ["ВСТАВЬ_UID_АДМИНА"];
+window.GOBLOX_ADMINS = ["bgNzXlyvHmrpdxUA2RqpG0v2t612"];
